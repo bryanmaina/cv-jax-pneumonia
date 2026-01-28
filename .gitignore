@@ -1,0 +1,12 @@
+# Python tmp files
+__pycache__
+./.pytest_cache
+
+# virtual environment
+.venv
+
+# macOS
+**/.DS_Store
+
+# datasets
+datasets/
